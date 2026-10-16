@@ -1,0 +1,10 @@
+Dokumentacja egzaminu INF.04
+
+Temat: Zapisy do sekcji sportowej
+
+System operacyjny: Windows
+
+Środowisko programistyczne: Visual Studio Code
+
+Zastosowane technologie: HTML, JavaScript, React.js, Bootstrap 5.
+
